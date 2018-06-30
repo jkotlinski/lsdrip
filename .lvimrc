@@ -1,0 +1,2 @@
+map <F3> :wall!<CR>:make<CR>
+map <F4> :!./lsdrip.exe ../lsdj/lsdj.gb<CR>
